@@ -36,7 +36,6 @@ public class TestRemb {
         //l'ajout des remboursement
         rs.ajouter(rb);
         rs.ajouter(rb1);
-        rs.ajouter(rb2);
         rs.ajouter(rb3);
         rs.ajouter(rb4);
         

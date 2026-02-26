@@ -30,6 +30,7 @@ public class RembService {
             
         } catch (Exception e) {
             System.out.println("Erreur lors de l'ajout !");
+            e.printStackTrace();
         }
     }
 
@@ -49,6 +50,7 @@ public class RembService {
             
         } catch (Exception e) {
             System.out.println("Erreur lors de la modification !");
+            e.printStackTrace();
         }
     }
 
@@ -68,6 +70,7 @@ public class RembService {
             
         } catch (Exception e) {
             System.out.println("Erreur lors de la suppression !");
+            e.printStackTrace();
         }
     }
 
@@ -83,6 +86,7 @@ public class RembService {
             }
         } catch (Exception e) {
             System.out.println("Erreur lors de la récupération !");
+            e.printStackTrace();
         }
     }
 }
