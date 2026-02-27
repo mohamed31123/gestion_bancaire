@@ -1,4 +1,4 @@
-[Dashboard 2026-02-27 15-58-47.zip](https://github.com/user-attachments/files/25607119/Dashboard.2026-02-27.15-58-47.zip)UML : 
+UML : 
 -Diagramme de classe :
 
 
@@ -107,6 +107,23 @@ Filtrage par id_client et id_pret  :
 
 
 [Dashboard 2026-02-27 15-58-47.zip](https://github.com/user-attachments/files/25607119/Dashboard.2026-02-27.15-58-47.zip)
+
+
+
+
+DEMO VIDEO :
+
+
+
+
+[Uploading PretRemb - NetBeans IDE 8.0.2 2026-02-27 22-13-39.zip…]()
+
+
+
+
+
+
+
 
 
 
